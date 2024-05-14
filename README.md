@@ -2,8 +2,8 @@
  Material covering key concepts of Language Modeling
 
  ## Content
- 1. Neural Lamguage Modeling
- 2. Reccurent Neural Networks and LSTM's
+ 1. Neural Language Modeling
+ 2. RNN's and LSTM's
  3. Transformers
  4. Decoding
  5. pre-training
